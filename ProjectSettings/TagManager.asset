@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -41,3 +41,41 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BG5
+    uniqueID: 2462969051
+    locked: 0
+  - name: BG4
+    uniqueID: 1763978645
+    locked: 0
+  - name: BG3
+    uniqueID: 1474039519
+    locked: 0
+  - name: BG2
+    uniqueID: 3572693409
+    locked: 0
+  - name: BG1
+    uniqueID: 354724359
+    locked: 0
+  - name: Rocks
+    uniqueID: 703740795
+    locked: 0
+  - name: Trees
+    uniqueID: 2864646579
+    locked: 0
+  - name: Flowers
+    uniqueID: 4040647717
+    locked: 0
+  - name: Grass
+    uniqueID: 135590599
+    locked: 0
+  - name: Fruits
+    uniqueID: 1851341227
+    locked: 0
+  - name: Ground
+    uniqueID: 3425569557
+    locked: 0
+  - name: Player
+    uniqueID: 3699393439
+    locked: 0
+  m_RenderingLayers:
+  - Default
