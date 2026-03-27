@@ -5,7 +5,6 @@ TagManager:
   serializedVersion: 3
   tags:
   - Ground
-  - Fruit
   layers:
   - Default
   - TransparentFX
@@ -15,7 +14,7 @@ TagManager:
   - UI
   - Player
   - Ground
-  - Fruits
+  - 
   - 
   - 
   - 
@@ -70,11 +69,11 @@ TagManager:
   - name: Grass
     uniqueID: 135590599
     locked: 0
-  - name: Ground
-    uniqueID: 3425569557
-    locked: 0
   - name: Fruits
     uniqueID: 1851341227
+    locked: 0
+  - name: Ground
+    uniqueID: 3425569557
     locked: 0
   - name: Player
     uniqueID: 3699393439
